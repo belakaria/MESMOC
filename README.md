@@ -1,7 +1,7 @@
-## Constrained Max-value Entropy Search for Multi-Objective Bayesian Optimization
+## Max-value Entropy Search for Multi-Objective Bayesian Optimization with Constraints
 
 
-This repository contains the python implementation for MESMOC paper "[]". 
+This repository contains the python implementation for MESMOC the paper "[Max-value Entropy Search for Multi-Objective Bayesian Optimization with Constraints]". 
 
 
 ### Requirements
@@ -15,6 +15,6 @@ The code is implemented in Python and requires the following packages:
 4. [pygmo](https://esa.github.io/pygmo2/install.html) 
 
 ### Citation
-If you use this code in your academic work please cite our paper: "Constrained Max-value Entropy Search for Multi-Objective Bayesian Optimization", Syrine Belakaria, Aryan Deshwal, Janardhan Rao Doppa.
+If you use this code in your academic work please cite our paper: "Max-value Entropy Search for Multi-Objective Bayesian Optimization with Constraints", Syrine Belakaria, Aryan Deshwal, Janardhan Rao Doppa.
 
 
