@@ -1,7 +1,7 @@
 ## Max-value Entropy Search for Multi-Objective Bayesian Optimization with Constraints
 
 
-This repository contains the python implementation for MESMOC the paper "[Max-value Entropy Search for Multi-Objective Bayesian Optimization with Constraints]". 
+This repository contains the python implementation for MESMOC the paper "[Max-value Entropy Search for Multi-Objective Bayesian Optimization with Constraints](https://arxiv.org/abs/2009.01721)". 
 
 
 ### Requirements
