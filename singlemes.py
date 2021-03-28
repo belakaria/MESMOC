@@ -37,8 +37,8 @@ class MaxvalueEntropySearch(object):
         mean, std = self.GPmodel.getPrediction(x)
         mean=mean[0]
         std=std[0]
-        if maximum < max(self.GPmodel.yValues)+5/self.GPmodel.beta:
-            maximum=max(self.GPmodel.yValues)+5/self.GPmodel.beta
+        #if maximum < max(self.GPmodel.yValues)+5/self.GPmodel.beta:
+        #    maximum=max(self.GPmodel.yValues)+5/self.GPmodel.beta
 
         normalized_max = (maximum - mean) / std
         pdf = norm.pdf(normalized_max)
