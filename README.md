@@ -22,6 +22,8 @@ If you use this code in your academic work please cite our papers:
   title={Output Space Entropy Search Framework for Multi-Objective Bayesian Optimization},
   author={Belakaria, Syrine and Deshwal, Aryan and Doppa, Janardhan Rao},
   journal={Journal of Artificial Intelligence Research},
+  volume={72},
+  pages={667-715},
   year={2021}
 }
 
