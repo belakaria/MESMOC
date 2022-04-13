@@ -158,6 +158,7 @@ for l in range(total_iterations):
         if not result.success:
             continue
         if ((result.fun<=y_best) and (not (result.x in np.asarray(GPs[0].xValues)))):
+            x_best=result.x
             y_best=result.fun
             
         
